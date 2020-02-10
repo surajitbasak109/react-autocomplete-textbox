@@ -8,11 +8,10 @@ We will use fetch API to use our autocomplete feature. You can also use an array
 
 The code for this project is available on github as well as on [Codepen](https://codepen.io/regexp/full/RwPNaLe).
 
-![](C:\Users\Techcet.Techcet-PC\Documents\Markdown\Build a Remote Autocomplete Text Box in React JS\reactjs-autocomplete-textbox.gif)
+![](https://raw.githubusercontent.com/surajitbasak109/react-autocomplete-textbox/master/public/img/reactjs-autocomplete-textbox.gif)
 
 
-
-![](C:\Users\Techcet.Techcet-PC\Documents\Markdown\Build a Remote Autocomplete Text Box in React JS\react-autocomplete-textbox-2.gif)
+![](https://raw.githubusercontent.com/surajitbasak109/react-autocomplete-textbox/master/public/img/react-autocomplete-textbox-2.gif)
 
 We are going to use some dependencies for for this project. 
 
@@ -433,7 +432,7 @@ Now we need to call this `autocomplete` method with `onChange` event listener of
 
 Now go back to your browser, open Developer tool by pressing `F12` or `ctrl+shift+I`. Click to `Console` tab and type something inside the first input element e.g. `p`.
 
-![](C:\Users\Techcet.Techcet-PC\Documents\Markdown\Build a Remote Autocomplete Text Box in React JS\console_tab_1.jpg)
+![](https://raw.githubusercontent.com/surajitbasak109/react-autocomplete-textbox/master/public/img/console_tab_1.jpg)
 
 It's showing all items which has `p` in every item name.
 
