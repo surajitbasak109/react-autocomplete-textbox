@@ -1,0 +1,105 @@
+{
+	"items": [{
+			"code": "001",
+			"name": "Pan Cake",
+			"unit": "Pcs",
+			"rate": "50.00"
+		},
+		{
+			"code": "002",
+			"name": "Chicken Pattise",
+			"unit": "Pcs",
+			"rate": "30.00"
+		},
+		{
+			"code": "002",
+			"name": "Veg Burger",
+			"unit": "Pcs",
+			"rate": "40.00"
+		},
+		{
+			"code": "003",
+			"name": "Mutton Burger",
+			"unit": "Pcs",
+			"rate": "70.00"
+		},
+		{
+			"code": "004",
+			"name": "Chicken Burger",
+			"unit": "Pcs",
+			"rate": "65.00"
+		},
+		{
+			"code": "005",
+			"name": "Veg Sandwitch",
+			"unit": "Pcs",
+			"rate": "30.00"
+		},
+		{
+			"code": "006",
+			"name": "Chicken Sandwitch",
+			"unit": "Pcs",
+			"rate": "45.00"
+		},
+		{
+			"code": "007",
+			"name": "Swiss Roll",
+			"unit": "Pcs",
+			"rate": "20.00"
+		},
+		{
+			"code": "008",
+			"name": "Chocolate Cookie",
+			"unit": "Case",
+			"rate": "100.00"
+		},
+		{
+			"code": "009",
+			"name": "Chocolate Pastry",
+			"unit": "Pcs",
+			"rate": "40.00"
+		},
+		{
+			"code": "010",
+			"name": "Hamburger",
+			"unit": "Pcs",
+			"rate": "100.00"
+		},
+		{
+			"code": "011",
+			"name": "Pizza",
+			"unit": "Pcs",
+			"rate": "90.00"
+		},
+		{
+			"code": "012",
+			"name": "Mutton Kebab",
+			"unit": "Pcs",
+			"rate": "130.00"
+		},
+		{
+			"code": "013",
+			"name": "Chicken Tandoori",
+			"unit": "Pcs",
+			"rate": "55.00"
+		},
+		{
+			"code": "014",
+			"name": "Mutton Biriyani",
+			"unit": "Pcs",
+			"rate": "150.00"
+		},
+		{
+			"code": "015",
+			"name": "Chocolate Bun",
+			"unit": "Case",
+			"rate": "150.00"
+		},
+		{
+			"code": "016",
+			"name": "Choco Pie",
+			"unit": "Case",
+			"rate": "160.00"
+		}
+	]
+}
